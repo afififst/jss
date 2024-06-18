@@ -74,7 +74,7 @@
   "dependencies": {
     "@sitecore-jss/sitecore-jss": "21.8.0-canary.9",
     "@sitecore-jss/sitecore-jss-dev-tools": "21.8.0-canary.9",
-    "@sitecore-jss/sitecore-jss-react": "21.8.0-canary.9",
+    "@sitecore-jss/sitecore-jss-react": "1.0.0",
     "@vercel/kv": "^0.2.1",
     "node-html-parser": "^6.1.4",
     "prop-types": "^15.8.1",
