@@ -27,7 +27,7 @@
     "url": "https://github.com/sitecore/jss/issues"
   },
   "dependencies": {
-    "http-proxy-middleware": "^2.0.6",
+    "http-proxy-middleware": "^3.0.1",
     "http-status-codes": "^2.2.0",
     "set-cookie-parser": "^2.5.1"
   },
