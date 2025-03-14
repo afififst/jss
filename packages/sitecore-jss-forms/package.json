@@ -43,7 +43,7 @@
     "typescript": "~4.9.5"
   },
   "dependencies": {
-    "@sitecore-jss/sitecore-jss": "21.8.0-canary.9"
+    "@sitecore-jss/sitecore-jss": "1.0.2"
   },
   "description": "",
   "types": "types/index.d.ts",
